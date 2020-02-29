@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>regression | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/tags/regression/</link>
-      <atom:link href="https://mccormickneuro.github.io/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/regression/</link>
+      <atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     <description>regression</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>regression</title>
-      <link>https://mccormickneuro.github.io/tags/regression/</link>
+      <link>/tags/regression/</link>
     </image>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://mccormickneuro.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://mccormickneuro.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 

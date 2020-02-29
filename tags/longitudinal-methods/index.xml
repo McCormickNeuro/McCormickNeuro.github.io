@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>longitudinal methods | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/tags/longitudinal-methods/</link>
-      <atom:link href="https://mccormickneuro.github.io/tags/longitudinal-methods/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/longitudinal-methods/</link>
+      <atom:link href="/tags/longitudinal-methods/index.xml" rel="self" type="application/rss+xml" />
     <description>longitudinal methods</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>longitudinal methods</title>
-      <link>https://mccormickneuro.github.io/tags/longitudinal-methods/</link>
+      <link>/tags/longitudinal-methods/</link>
     </image>
     
     <item>
       <title>Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts</title>
-      <link>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</link>
+      <link>/publication/2016-cognitive-control-family/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</guid>
+      <guid>/publication/2016-cognitive-control-family/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts. &lt;em&gt;NeuroImage, 124&lt;/em&gt;, 989-996.&lt;/p&gt;
 </description>

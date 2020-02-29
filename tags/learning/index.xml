@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>learning | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/tags/learning/</link>
-      <atom:link href="https://mccormickneuro.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/learning/</link>
+      <atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <description>learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>learning</title>
-      <link>https://mccormickneuro.github.io/tags/learning/</link>
+      <link>/tags/learning/</link>
     </image>
     
     <item>
       <title>Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context</title>
-      <link>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</link>
+      <link>/publication/2017-adaptive-flexibility/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</guid>
+      <guid>/publication/2017-adaptive-flexibility/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
 </description>
