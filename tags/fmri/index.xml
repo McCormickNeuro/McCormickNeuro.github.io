@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fMRI | Ethan McCormick</title>
+    <link>https://mccormickneuro.github.io/tags/fmri/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
+    <description>fMRI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>fMRI</title>
+      <link>https://mccormickneuro.github.io/tags/fmri/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context</title>
+      <link>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+McCormick, E. M., &amp;amp; Telzer, E. H. Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts</title>
+      <link>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts. &lt;em&gt;NeuroImage, 124&lt;/em&gt;, 989-996.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
