@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>longitudinal methods | Ethan McCormick</title>
-    <link>/tags/longitudinal-methods/</link>
-      <atom:link href="/tags/longitudinal-methods/index.xml" rel="self" type="application/rss+xml" />
-    <description>longitudinal methods</description>
+    <title>Qu, Y., &amp; Telzer, E.H | Ethan McCormick</title>
+    <link>/authors/qu-y.-telzer-e.h/</link>
+      <atom:link href="/authors/qu-y.-telzer-e.h/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qu, Y., &amp; Telzer, E.H</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>longitudinal methods</title>
-      <link>/tags/longitudinal-methods/</link>
+      <title>Qu, Y., &amp; Telzer, E.H</title>
+      <link>/authors/qu-y.-telzer-e.h/</link>
     </image>
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/publication/2017-activation-in-context/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. Activation in context: Differential conclusions drawn from cross-sectional and longitudinal analyses of adolescents’ cognitive control-related neural activity. &lt;em&gt;Frontiers in Human Neuroscience, 11&lt;/em&gt;, 141.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts</title>
-      <link>/publication/2016-cognitive-control-family/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-cognitive-control-family/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
-McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts. &lt;em&gt;NeuroImage, 124&lt;/em&gt;, 989-996.&lt;/p&gt;
 </description>
     </item>
     
