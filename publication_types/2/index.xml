@@ -5,7 +5,7 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
@@ -13,10 +13,30 @@
     </image>
     
     <item>
+      <title>Moderate social sensitivity in a risky context supports adaptive decision-making in adolescence: Evidence from brain and behavior</title>
+      <link>/publication/2018-moderate-social-sensitivity/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-moderate-social-sensitivity/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+van Hoorn, J., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Moderate social sensitivity in a risky context supports adaptive decision-making in adolescence: Evidence from brain and behavior. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;, 546–556.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Methodological considerations for longitudinal fMRI research</title>
+      <link>/publication/2018-methodological-considerations/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-methodological-considerations/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+Telzer, E. H., McCormick, E. M., Peters, S., Cosme, D., Pfeifer, P. H., &amp;amp; van Duijvenvoorde, A. C. K. (2018). Methodological considerations for longitudinal fMRI research. &lt;em&gt;Developmental Cognitive Neuroscience, 33&lt;/em&gt;, 149–160.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking</title>
-      <link>/publication/2018-social-sensitivity/</link>
+      <link>/publication/2018-not-social-sensitivity/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-social-sensitivity/</guid>
+      <guid>/publication/2018-not-social-sensitivity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Perino, M. T., &amp;amp; Telzer, E. H. (2018). Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking. &lt;em&gt;Developmental Cognitive Neuroscience, 30&lt;/em&gt;, 134–141.&lt;/p&gt;
 </description>
