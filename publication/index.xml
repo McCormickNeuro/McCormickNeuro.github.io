@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,12 +13,32 @@
     </image>
     
     <item>
+      <title>Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence</title>
+      <link>/publication/2018-doomed-to-repeat/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-doomed-to-repeat/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence. &lt;em&gt;Journal of Cognitive Neuroscience, 30&lt;/em&gt;(3), 281–289.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Youth&#39;s conceptions of adolescence predict longitudinal changes in prefrontal cortex activation and risk taking</title>
+      <link>/publication/2018-adolescent-conceptions/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-adolescent-conceptions/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+Qu, Y., Pomerantz, E. M., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Youth&amp;rsquo;s conceptions of adolescence predict longitudinal changes in prefrontal cortex activation and risk taking. &lt;em&gt;Child Development, 89&lt;/em&gt;, 773-783.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents</title>
       <link>/publication/2017-failure-to-retreat/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017-failure-to-retreat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
-McCormick, E. M., &amp;amp; Telzer, E. H. Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents. &lt;em&gt;NeuroImage, 147&lt;/em&gt;, 381-389.&lt;/p&gt;
+McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents. &lt;em&gt;NeuroImage, 147&lt;/em&gt;, 381-389.&lt;/p&gt;
 </description>
     </item>
     
@@ -28,7 +48,7 @@ McCormick, E. M., &amp;amp; Telzer, E. H. Failure to retreat: Blunted sensitivit
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017-adaptive-flexibility/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
-McCormick, E. M., &amp;amp; Telzer, E. H. Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
+McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
 </description>
     </item>
     
@@ -38,7 +58,7 @@ McCormick, E. M., &amp;amp; Telzer, E. H. Adaptive adolescent flexibility: Neuro
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/publication/2017-activation-in-context/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
-McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. Activation in context: Differential conclusions drawn from cross-sectional and longitudinal analyses of adolescents’ cognitive control-related neural activity. &lt;em&gt;Frontiers in Human Neuroscience, 11&lt;/em&gt;, 141.&lt;/p&gt;
+McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. (2017). Activation in context: Differential conclusions drawn from cross-sectional and longitudinal analyses of adolescents’ cognitive control-related neural activity. &lt;em&gt;Frontiers in Human Neuroscience, 11&lt;/em&gt;, 141.&lt;/p&gt;
 </description>
     </item>
     
@@ -48,7 +68,7 @@ McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. Activation in context: Differe
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>/publication/2016-cognitive-control-family/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
-McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts. &lt;em&gt;NeuroImage, 124&lt;/em&gt;, 989-996.&lt;/p&gt;
+McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. (2016). Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts. &lt;em&gt;NeuroImage, 124&lt;/em&gt;, 989-996.&lt;/p&gt;
 </description>
     </item>
     
