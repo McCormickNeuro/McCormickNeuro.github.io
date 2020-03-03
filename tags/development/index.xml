@@ -5,12 +5,22 @@
     <link>/tags/development/</link>
       <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <description>development</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>development</title>
       <link>/tags/development/</link>
     </image>
+    
+    <item>
+      <title>Functional connectivity in the social brain across childhood and adolescence</title>
+      <link>/publication/2018-social-brain-network/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-social-brain-network/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+McCormick, E. M., van Hoorn, J., Cohen, J. R., &amp;amp; Telzer, E. H. (2018). Functional connectivity in the social brain across childhood and adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;, 819–830.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Moderate social sensitivity in a risky context supports adaptive decision-making in adolescence: Evidence from brain and behavior</title>
