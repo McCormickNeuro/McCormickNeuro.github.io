@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIMME | Ethan McCormick</title>
+    <link>/tags/gimme/</link>
+      <atom:link href="/tags/gimme/index.xml" rel="self" type="application/rss+xml" />
+    <description>GIMME</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>GIMME</title>
+      <link>/tags/gimme/</link>
+    </image>
+    
+    <item>
+      <title>Model-based network discovery of developmental and performance-related differences during risky decision-making</title>
+      <link>/publication/2019-model-based-networks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-model-based-networks/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based network discovery of developmental and performance-related differences during risky decision-making. &lt;em&gt;NeuroImage, 188&lt;/em&gt;, 456-464
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributions of default mode network stability and deactivation to adolescent task engagement</title>
+      <link>/publication/2018-default-mode-stability/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-default-mode-stability/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode network stability and deactivation to adolescent task engagement. &lt;em&gt;Scientific Reprots, 8&lt;/em&gt;, 18049.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
