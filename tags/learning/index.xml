@@ -5,12 +5,22 @@
     <link>/tags/learning/</link>
       <atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <description>learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>learning</title>
       <link>/tags/learning/</link>
     </image>
+    
+    <item>
+      <title>Longitudinal Network Re-organization Across Learning and Development</title>
+      <link>/publication/2021-longitudinal-reorganization/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-longitudinal-reorganization/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
+McCormick, E. M., Peters, S., Crone, E. A., &amp;amp; Telzer, E. H. (2021). Longitudinal Network Re-organization Across Learning and Development. &lt;em&gt;NeuroImage, 229&lt;/em&gt;, 117784.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Contributions of default mode network stability and deactivation to adolescent task engagement</title>
