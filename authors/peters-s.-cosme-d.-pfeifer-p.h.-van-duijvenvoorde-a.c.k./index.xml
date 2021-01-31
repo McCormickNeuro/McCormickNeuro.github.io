@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peters, S., Cosme, D., Pfeifer, P.H., &amp; van Duijvenvoorde, A.C.K. | Ethan McCormick</title>
-    <link>/authors/peters-s.-cosme-d.-pfeifer-p.h.-van-duijvenvoorde-a.c.k./</link>
-      <atom:link href="/authors/peters-s.-cosme-d.-pfeifer-p.h.-van-duijvenvoorde-a.c.k./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/authors/peters-s.-cosme-d.-pfeifer-p.h.-van-duijvenvoorde-a.c.k./</link>
+      <atom:link href="https://mccormickneuro.github.io/authors/peters-s.-cosme-d.-pfeifer-p.h.-van-duijvenvoorde-a.c.k./index.xml" rel="self" type="application/rss+xml" />
     <description>Peters, S., Cosme, D., Pfeifer, P.H., &amp; van Duijvenvoorde, A.C.K.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Peters, S., Cosme, D., Pfeifer, P.H., &amp; van Duijvenvoorde, A.C.K.</title>
-      <link>/authors/peters-s.-cosme-d.-pfeifer-p.h.-van-duijvenvoorde-a.c.k./</link>
+      <link>https://mccormickneuro.github.io/authors/peters-s.-cosme-d.-pfeifer-p.h.-van-duijvenvoorde-a.c.k./</link>
     </image>
     
     <item>
       <title>Methodological considerations for longitudinal fMRI research</title>
-      <link>/publication/2018-methodological-considerations/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-methodological-considerations/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-methodological-considerations/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-methodological-considerations/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Telzer, E. H., McCormick, E. M., Peters, S., Cosme, D., Pfeifer, P. H., &amp;amp; van Duijvenvoorde, A. C. K. (2018). Methodological considerations for longitudinal fMRI research. &lt;em&gt;Developmental Cognitive Neuroscience, 33&lt;/em&gt;, 149–160.&lt;/p&gt;
 </description>

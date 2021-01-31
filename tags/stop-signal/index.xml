@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stop Signal | Ethan McCormick</title>
-    <link>/tags/stop-signal/</link>
-      <atom:link href="/tags/stop-signal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/stop-signal/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/stop-signal/index.xml" rel="self" type="application/rss+xml" />
     <description>Stop Signal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Stop Signal</title>
-      <link>/tags/stop-signal/</link>
+      <link>https://mccormickneuro.github.io/tags/stop-signal/</link>
     </image>
     
     <item>
       <title>Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence</title>
-      <link>/publication/2018-doomed-to-repeat/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-doomed-to-repeat/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence. &lt;em&gt;Journal of Cognitive Neuroscience, 30&lt;/em&gt;(3), 281–289.&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&amp; Telzer, E.H. | Ethan McCormick</title>
-    <link>/authors/telzer-e.h./</link>
-      <atom:link href="/authors/telzer-e.h./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/authors/telzer-e.h./</link>
+      <atom:link href="https://mccormickneuro.github.io/authors/telzer-e.h./index.xml" rel="self" type="application/rss+xml" />
     <description>&amp; Telzer, E.H.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>&amp; Telzer, E.H.</title>
-      <link>/authors/telzer-e.h./</link>
+      <link>https://mccormickneuro.github.io/authors/telzer-e.h./</link>
     </image>
     
     <item>
       <title>Alterations in adolescent dopaminergic systems as a function of early mother-toddler attachment: a prospective longitudinal examination</title>
-      <link>/publication/2019-dopamine-attachment/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-dopamine-attachment/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., McElwain, N. A., &amp;amp; Telzer, E. H. (2019). Alterations in adolescent dopaminergic systems as a function of early mother-toddler attachment: a prospective longitudinal examination. &lt;em&gt;International Journal of Developmental Neuroscience, 78&lt;/em&gt;, 122-129
 .&lt;/p&gt;
@@ -25,9 +25,9 @@ McCormick, E. M., McElwain, N. A., &amp;amp; Telzer, E. H. (2019). Alterations i
     
     <item>
       <title>Model-based network discovery of developmental and performance-related differences during risky decision-making</title>
-      <link>/publication/2019-model-based-networks/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-model-based-networks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-model-based-networks/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-model-based-networks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based network discovery of developmental and performance-related differences during risky decision-making. &lt;em&gt;NeuroImage, 188&lt;/em&gt;, 456-464
 .&lt;/p&gt;
@@ -36,9 +36,9 @@ McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based netw
     
     <item>
       <title>Contributions of default mode network stability and deactivation to adolescent task engagement</title>
-      <link>/publication/2018-default-mode-stability/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-default-mode-stability/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode network stability and deactivation to adolescent task engagement. &lt;em&gt;Scientific Reports, 8&lt;/em&gt;, 18049.&lt;/p&gt;
 </description>
@@ -46,9 +46,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode 
     
     <item>
       <title>Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence</title>
-      <link>/publication/2018-doomed-to-repeat/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-doomed-to-repeat/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence. &lt;em&gt;Journal of Cognitive Neuroscience, 30&lt;/em&gt;(3), 281–289.&lt;/p&gt;
 </description>
@@ -56,9 +56,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Not doomed to repeat: Enhanced
     
     <item>
       <title>Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents</title>
-      <link>/publication/2017-failure-to-retreat/</link>
+      <link>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-failure-to-retreat/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents. &lt;em&gt;NeuroImage, 147&lt;/em&gt;, 381-389.&lt;/p&gt;
 </description>
@@ -66,9 +66,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted se
     
     <item>
       <title>Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context</title>
-      <link>/publication/2017-adaptive-flexibility/</link>
+      <link>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-adaptive-flexibility/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
 </description>

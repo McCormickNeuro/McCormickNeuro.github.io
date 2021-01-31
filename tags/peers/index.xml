@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>peers | Ethan McCormick</title>
-    <link>/tags/peers/</link>
-      <atom:link href="/tags/peers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/peers/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/peers/index.xml" rel="self" type="application/rss+xml" />
     <description>peers</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>peers</title>
-      <link>/tags/peers/</link>
+      <link>https://mccormickneuro.github.io/tags/peers/</link>
     </image>
     
     <item>
       <title>Neural Correlates of Conﬂicting Social Inﬂuence on Adolescent Risk Taking</title>
-      <link>/publication/2020-conflicting-risktaking/</link>
+      <link>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-conflicting-risktaking/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Kwon, S-J., Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural correlates of conflicting social influence on adolescent risk-taking. &lt;em&gt;Journal of Research on Adolescence&lt;/em&gt;, 1-14.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ Kwon, S-J., Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural 
     
     <item>
       <title>Neural sensitivity to conflicting attitudes supports greater conformity toward positive over negative influence in early adolescence</title>
-      <link>/publication/2020-sensitivity-conflicting/</link>
+      <link>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-sensitivity-conflicting/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural sensitivity to conflicting attitudes supports greater conformity toward positive over negative influence in early adolescence. &lt;em&gt;Developmental Cognitive Neuroscience, 45&lt;/em&gt;, 100837.&lt;/p&gt;
 </description>
