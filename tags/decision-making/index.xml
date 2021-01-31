@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>decision making | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/tags/decision-making/</link>
-      <atom:link href="https://mccormickneuro.github.io/tags/decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/decision-making/</link>
+      <atom:link href="/tags/decision-making/index.xml" rel="self" type="application/rss+xml" />
     <description>decision making</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>decision making</title>
-      <link>https://mccormickneuro.github.io/tags/decision-making/</link>
+      <link>/tags/decision-making/</link>
     </image>
     
     <item>
       <title>The neural development of prosocial behavior from childhood to adolescence</title>
-      <link>https://mccormickneuro.github.io/publication/2019-prosocial-development/</link>
+      <link>/publication/2019-prosocial-development/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2019-prosocial-development/</guid>
+      <guid>/publication/2019-prosocial-development/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). The neural development of prosocial behavior from childhood to adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 14&lt;/em&gt;(2), 129-139.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). The neural developm
     
     <item>
       <title>Neural correlates of sibling closeness and association with externalizing behavior in adolescence</title>
-      <link>https://mccormickneuro.github.io/publication/2018-sibling-closeness/</link>
+      <link>/publication/2018-sibling-closeness/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2018-sibling-closeness/</guid>
+      <guid>/publication/2018-sibling-closeness/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Rogers, C. R., McCormick, E. M., van Hoorn, J., Ivory, S., &amp;amp; Telzer, E. H. (2018). Neural correlates of sibling closeness and association with externalizing behavior in adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;, 977–988.&lt;/p&gt;
 </description>

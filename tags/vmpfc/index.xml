@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vmPFC | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/tags/vmpfc/</link>
-      <atom:link href="https://mccormickneuro.github.io/tags/vmpfc/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/vmpfc/</link>
+      <atom:link href="/tags/vmpfc/index.xml" rel="self" type="application/rss+xml" />
     <description>vmPFC</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>vmPFC</title>
-      <link>https://mccormickneuro.github.io/tags/vmpfc/</link>
+      <link>/tags/vmpfc/</link>
     </image>
     
     <item>
       <title>Neural Correlates of Conﬂicting Social Inﬂuence on Adolescent Risk Taking</title>
-      <link>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</link>
+      <link>/publication/2020-conflicting-risktaking/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</guid>
+      <guid>/publication/2020-conflicting-risktaking/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Kwon, S-J., Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural correlates of conflicting social influence on adolescent risk-taking. &lt;em&gt;Journal of Research on Adolescence&lt;/em&gt;, 1-14.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ Kwon, S-J., Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural 
     
     <item>
       <title>Neural sensitivity to conflicting attitudes supports greater conformity toward positive over negative influence in early adolescence</title>
-      <link>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</link>
+      <link>/publication/2020-sensitivity-conflicting/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</guid>
+      <guid>/publication/2020-sensitivity-conflicting/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural sensitivity to conflicting attitudes supports greater conformity toward positive over negative influence in early adolescence. &lt;em&gt;Developmental Cognitive Neuroscience, 45&lt;/em&gt;, 100837.&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@ Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural sensitivity 
     
     <item>
       <title>Differential behavioral and neural profiles in youth with conduct problems during risky decision‐making</title>
-      <link>https://mccormickneuro.github.io/publication/2020-differential-profiles-conduct/</link>
+      <link>/publication/2020-differential-profiles-conduct/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2020-differential-profiles-conduct/</guid>
+      <guid>/publication/2020-differential-profiles-conduct/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 van Hoorn, J., McCormick, E. M., Perino, M. T., Rogers, C. R., &amp;amp; Telzer, E. H. (2020). Differential behavioral and neural profiles in youth with conduct problems during risky decisionmaking. &lt;em&gt;Journal of Research on Adolescence&lt;/em&gt;, 1-15.&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@ van Hoorn, J., McCormick, E. M., Perino, M. T., Rogers, C. R., &amp;amp; Telzer,
     
     <item>
       <title>Maternal emotion socialization in early childhood predicts adolescents’ amygdala-vmPFC functional connectivity to emotion faces</title>
-      <link>https://mccormickneuro.github.io/publication/2020-maternal-emotion-socialization/</link>
+      <link>/publication/2020-maternal-emotion-socialization/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2020-maternal-emotion-socialization/</guid>
+      <guid>/publication/2020-maternal-emotion-socialization/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Chen, X., McCormick, E. M., Ravindran, N., McElwain, N. L., &amp;amp; Telzer, E. H. (2020). Maternal emotion socialization in early childhood predicts adolescents’ amygdala-vmPFC functional connectivity to emotion faces. &lt;em&gt;Developmental Psychology, 56&lt;/em&gt;(3), 503-515.&lt;/p&gt;
 </description>

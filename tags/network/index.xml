@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>network | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/tags/network/</link>
-      <atom:link href="https://mccormickneuro.github.io/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/network/</link>
+      <atom:link href="/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <description>network</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>network</title>
-      <link>https://mccormickneuro.github.io/tags/network/</link>
+      <link>/tags/network/</link>
     </image>
     
     <item>
       <title>Model-based network discovery of developmental and performance-related differences during risky decision-making</title>
-      <link>https://mccormickneuro.github.io/publication/2019-model-based-networks/</link>
+      <link>/publication/2019-model-based-networks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2019-model-based-networks/</guid>
+      <guid>/publication/2019-model-based-networks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based network discovery of developmental and performance-related differences during risky decision-making. &lt;em&gt;NeuroImage, 188&lt;/em&gt;, 456-464
 .&lt;/p&gt;
@@ -25,9 +25,9 @@ McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based netw
     
     <item>
       <title>Contributions of default mode network stability and deactivation to adolescent task engagement</title>
-      <link>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</link>
+      <link>/publication/2018-default-mode-stability/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</guid>
+      <guid>/publication/2018-default-mode-stability/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode network stability and deactivation to adolescent task engagement. &lt;em&gt;Scientific Reports, 8&lt;/em&gt;, 18049.&lt;/p&gt;
 </description>
@@ -35,9 +35,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode 
     
     <item>
       <title>Functional connectivity in the social brain across childhood and adolescence</title>
-      <link>https://mccormickneuro.github.io/publication/2018-social-brain-network/</link>
+      <link>/publication/2018-social-brain-network/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2018-social-brain-network/</guid>
+      <guid>/publication/2018-social-brain-network/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., van Hoorn, J., Cohen, J. R., &amp;amp; Telzer, E. H. (2018). Functional connectivity in the social brain across childhood and adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;(8), 819–830.&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BART | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/tags/bart/</link>
-      <atom:link href="https://mccormickneuro.github.io/tags/bart/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/bart/</link>
+      <atom:link href="/tags/bart/index.xml" rel="self" type="application/rss+xml" />
     <description>BART</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>BART</title>
-      <link>https://mccormickneuro.github.io/tags/bart/</link>
+      <link>/tags/bart/</link>
     </image>
     
     <item>
       <title>Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents</title>
-      <link>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</link>
+      <link>/publication/2017-failure-to-retreat/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</guid>
+      <guid>/publication/2017-failure-to-retreat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents. &lt;em&gt;NeuroImage, 147&lt;/em&gt;, 381-389.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted se
     
     <item>
       <title>Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context</title>
-      <link>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</link>
+      <link>/publication/2017-adaptive-flexibility/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</guid>
+      <guid>/publication/2017-adaptive-flexibility/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
 </description>

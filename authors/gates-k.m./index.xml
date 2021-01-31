@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gates, K.M. | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/authors/gates-k.m./</link>
-      <atom:link href="https://mccormickneuro.github.io/authors/gates-k.m./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/gates-k.m./</link>
+      <atom:link href="/authors/gates-k.m./index.xml" rel="self" type="application/rss+xml" />
     <description>Gates, K.M.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Gates, K.M.</title>
-      <link>https://mccormickneuro.github.io/authors/gates-k.m./</link>
+      <link>/authors/gates-k.m./</link>
     </image>
     
     <item>
       <title>Model-based network discovery of developmental and performance-related differences during risky decision-making</title>
-      <link>https://mccormickneuro.github.io/publication/2019-model-based-networks/</link>
+      <link>/publication/2019-model-based-networks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2019-model-based-networks/</guid>
+      <guid>/publication/2019-model-based-networks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based network discovery of developmental and performance-related differences during risky decision-making. &lt;em&gt;NeuroImage, 188&lt;/em&gt;, 456-464
 .&lt;/p&gt;

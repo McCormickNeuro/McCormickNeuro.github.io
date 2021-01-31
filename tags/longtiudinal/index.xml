@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>longtiudinal | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/tags/longtiudinal/</link>
-      <atom:link href="https://mccormickneuro.github.io/tags/longtiudinal/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/longtiudinal/</link>
+      <atom:link href="/tags/longtiudinal/index.xml" rel="self" type="application/rss+xml" />
     <description>longtiudinal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>longtiudinal</title>
-      <link>https://mccormickneuro.github.io/tags/longtiudinal/</link>
+      <link>/tags/longtiudinal/</link>
     </image>
     
     <item>
       <title>Alterations in adolescent dopaminergic systems as a function of early mother-toddler attachment: a prospective longitudinal examination</title>
-      <link>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</link>
+      <link>/publication/2019-dopamine-attachment/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</guid>
+      <guid>/publication/2019-dopamine-attachment/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., McElwain, N. A., &amp;amp; Telzer, E. H. (2019). Alterations in adolescent dopaminergic systems as a function of early mother-toddler attachment: a prospective longitudinal examination. &lt;em&gt;International Journal of Developmental Neuroscience, 78&lt;/em&gt;, 122-129
 .&lt;/p&gt;

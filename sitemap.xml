@@ -3,605 +3,615 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mccormickneuro.github.io/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/talk/example/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mccormickneuro.github.io/authors/mccormick-e.m./</loc>
+    <loc>/authors/mccormick-e.m./</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication_types/3/</loc>
+    <loc>/publication_types/3/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/age/</loc>
+    <loc>/tags/age/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/experience/</loc>
+    <loc>/tags/experience/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/longitudinal-modeling/</loc>
+    <loc>/tags/longitudinal-modeling/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/preprint-mlmgm/</loc>
+    <loc>/publication/preprint-mlmgm/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/puberty/</loc>
+    <loc>/tags/puberty/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/quantitative-methods/</loc>
+    <loc>/tags/quantitative-methods/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/fmri/</loc>
+    <loc>/tags/fmri/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/learning/</loc>
+    <loc>/tags/learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/longitudinal-methods/</loc>
+    <loc>/tags/longitudinal-methods/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2021-longitudinal-reorganization/</loc>
+    <loc>/publication/2021-longitudinal-reorganization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/network/</loc>
+    <loc>/tags/network/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/network-neuroscience/</loc>
+    <loc>/tags/network-neuroscience/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/peters-s.-crone-e.a.-telzer-e.h./</loc>
+    <loc>/authors/peters-s.-crone-e.a.-telzer-e.h./</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/adolescence/</loc>
+    <loc>/tags/adolescence/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/do-k.t./</loc>
+    <loc>/authors/do-k.t./</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/do-k.t.-mccormick-e.m.-telzer-e.h./</loc>
+    <loc>/authors/do-k.t.-mccormick-e.m.-telzer-e.h./</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/kwon-s-j./</loc>
+    <loc>/authors/kwon-s-j./</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</loc>
+    <loc>/publication/2020-conflicting-risktaking/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/parents/</loc>
+    <loc>/tags/parents/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/peers/</loc>
+    <loc>/tags/peers/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/social-influence/</loc>
+    <loc>/tags/social-influence/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/vmpfc/</loc>
+    <loc>/tags/vmpfc/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/mccormick-e.m.-telzer-e.h./</loc>
+    <loc>/authors/mccormick-e.m.-telzer-e.h./</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</loc>
+    <loc>/publication/2020-sensitivity-conflicting/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/mccormick-e.m.-perino-m.t.-rogers-c.r.-telzer-e.h./</loc>
+    <loc>/authors/mccormick-e.m.-perino-m.t.-rogers-c.r.-telzer-e.h./</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/conduct-disorder/</loc>
+    <loc>/tags/conduct-disorder/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2020-differential-profiles-conduct/</loc>
+    <loc>/publication/2020-differential-profiles-conduct/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/risk-taking/</loc>
+    <loc>/tags/risk-taking/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/van-hoorn-j./</loc>
+    <loc>/authors/van-hoorn-j./</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/ventral-striatum/</loc>
+    <loc>/tags/ventral-striatum/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/mccormick-e.m.-ravindran-n.-mcelwain-n.l.-telzer-e.h./</loc>
+    <loc>/authors/mccormick-e.m.-ravindran-n.-mcelwain-n.l.-telzer-e.h./</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/amygdala/</loc>
+    <loc>/tags/amygdala/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/chen-x./</loc>
+    <loc>/authors/chen-x./</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/emotion-socialization/</loc>
+    <loc>/tags/emotion-socialization/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2020-maternal-emotion-socialization/</loc>
+    <loc>/publication/2020-maternal-emotion-socialization/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/parenting/</loc>
+    <loc>/tags/parenting/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/courses/</loc>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2019-emotreg-highlow-risk/</loc>
+    <loc>/publication/2019-emotreg-highlow-risk/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/delinquency/</loc>
+    <loc>/tags/delinquency/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/emotion-regulation/</loc>
+    <loc>/tags/emotion-regulation/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/guassi-moreira-j.f.-mccormick-e.m.-telzer-e.h./</loc>
+    <loc>/authors/guassi-moreira-j.f.-mccormick-e.m.-telzer-e.h./</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/perino-m.t./</loc>
+    <loc>/authors/perino-m.t./</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/social-processing/</loc>
+    <loc>/tags/social-processing/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2019-dysregulation-socialrewards-internalizing/</loc>
+    <loc>/publication/2019-dysregulation-socialrewards-internalizing/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/cognitive-control/</loc>
+    <loc>/tags/cognitive-control/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/internalizing/</loc>
+    <loc>/tags/internalizing/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/ivory-s.l.-mccormick-e.m.-telzer-e.h./</loc>
+    <loc>/authors/ivory-s.l.-mccormick-e.m.-telzer-e.h./</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/social-rewards/</loc>
+    <loc>/tags/social-rewards/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/telzer-e.h./</loc>
+    <loc>/authors/telzer-e.h./</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</loc>
+    <loc>/publication/2019-dopamine-attachment/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/attachment/</loc>
+    <loc>/tags/attachment/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/balloon-analogue-risk-task/</loc>
+    <loc>/tags/balloon-analogue-risk-task/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/longtiudinal/</loc>
+    <loc>/tags/longtiudinal/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/mcelwain-n.a./</loc>
+    <loc>/authors/mcelwain-n.a./</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/decision-making/</loc>
+    <loc>/tags/decision-making/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/prosocial-behavior/</loc>
+    <loc>/tags/prosocial-behavior/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2019-prosocial-development/</loc>
+    <loc>/publication/2019-prosocial-development/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/gates-k.m./</loc>
+    <loc>/authors/gates-k.m./</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/gimme/</loc>
+    <loc>/tags/gimme/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2019-model-based-networks/</loc>
+    <loc>/publication/2019-model-based-networks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</loc>
+    <loc>/publication/2018-default-mode-stability/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/default-mode/</loc>
+    <loc>/tags/default-mode/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/mccormick-e.m.-rogers-c.r.-ivory-s.-telzer-e.h./</loc>
+    <loc>/authors/mccormick-e.m.-rogers-c.r.-ivory-s.-telzer-e.h./</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-differential-peer-parents/</loc>
+    <loc>/publication/2018-differential-peer-parents/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-social-brain-network/</loc>
+    <loc>/publication/2018-social-brain-network/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/ppi/</loc>
+    <loc>/tags/ppi/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/social-brain/</loc>
+    <loc>/tags/social-brain/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/van-hoorn-j.-cohen-j.r.-telzer-e.h./</loc>
+    <loc>/authors/van-hoorn-j.-cohen-j.r.-telzer-e.h./</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/mccormick-e.m.-van-hoorn-j.-ivory-s.-telzer-e.h./</loc>
+    <loc>/authors/mccormick-e.m.-van-hoorn-j.-ivory-s.-telzer-e.h./</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/externalizing/</loc>
+    <loc>/tags/externalizing/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-sibling-closeness/</loc>
+    <loc>/publication/2018-sibling-closeness/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/rogers-c.r./</loc>
+    <loc>/authors/rogers-c.r./</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/sibling-relations/</loc>
+    <loc>/tags/sibling-relations/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/face-processing/</loc>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/face-processing/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/muscatell-k.a./</loc>
+    <loc>/authors/muscatell-k.a./</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/race/</loc>
+    <loc>/tags/race/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/social-status/</loc>
+    <loc>/tags/social-status/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-subjective-social-status/</loc>
+    <loc>/publication/2018-subjective-social-status/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-moderate-social-sensitivity/</loc>
+    <loc>/publication/2018-moderate-social-sensitivity/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-methodological-considerations/</loc>
+    <loc>/publication/2018-methodological-considerations/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/peters-s.-cosme-d.-pfeifer-p.h.-van-duijvenvoorde-a.c.k./</loc>
+    <loc>/authors/peters-s.-cosme-d.-pfeifer-p.h.-van-duijvenvoorde-a.c.k./</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/telzer-e.h.-mccormick-e.m./</loc>
+    <loc>/authors/telzer-e.h.-mccormick-e.m./</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-not-social-sensitivity/</loc>
+    <loc>/publication/2018-not-social-sensitivity/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/perino-m.t.-telzer-e.h./</loc>
+    <loc>/authors/perino-m.t.-telzer-e.h./</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</loc>
+    <loc>/publication/2018-doomed-to-repeat/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/pomerantz-e.m.-mccormick-e.m.-telzer-e.h./</loc>
+    <loc>/authors/pomerantz-e.m.-mccormick-e.m.-telzer-e.h./</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/qu-y./</loc>
+    <loc>/authors/qu-y./</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/stop-signal/</loc>
+    <loc>/tags/stop-signal/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2018-adolescent-conceptions/</loc>
+    <loc>/publication/2018-adolescent-conceptions/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/bart/</loc>
+    <loc>/tags/bart/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</loc>
+    <loc>/publication/2017-failure-to-retreat/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</loc>
+    <loc>/publication/2017-adaptive-flexibility/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2017-activation-in-context/</loc>
+    <loc>/publication/2017-activation-in-context/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/qu-y.-telzer-e.h./</loc>
+    <loc>/authors/qu-y.-telzer-e.h./</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</loc>
+    <loc>/publication/2016-cognitive-control-family/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/family-relationships/</loc>
+    <loc>/tags/family-relationships/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/qu-y-telzer-e.h./</loc>
+    <loc>/authors/qu-y-telzer-e.h./</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/deep-learning/</loc>
+    <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/tags/demo/</loc>
+    <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://mccormickneuro.github.io/post/</loc>
+    <loc>/post/</loc>
   </url>
   
 </urlset>

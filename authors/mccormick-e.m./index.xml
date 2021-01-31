@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>**McCormick, E.M.** | Ethan McCormick</title>
-    <link>https://mccormickneuro.github.io/authors/mccormick-e.m./</link>
-      <atom:link href="https://mccormickneuro.github.io/authors/mccormick-e.m./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/mccormick-e.m./</link>
+      <atom:link href="/authors/mccormick-e.m./index.xml" rel="self" type="application/rss+xml" />
     <description>**McCormick, E.M.**</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>**McCormick, E.M.**</title>
-      <link>https://mccormickneuro.github.io/authors/mccormick-e.m./</link>
+      <link>/authors/mccormick-e.m./</link>
     </image>
     
     <item>
       <title>Multi-Level Multi-Growth Models: New opportunities for addressing developmental theory using longitudinal designs</title>
-      <link>https://mccormickneuro.github.io/publication/preprint-mlmgm/</link>
+      <link>/publication/preprint-mlmgm/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/preprint-mlmgm/</guid>
+      <guid>/publication/preprint-mlmgm/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M. (&lt;em&gt;preprint&lt;/em&gt;). Multi-Level Multi-Growth Models: New opportunities for addressing developmental theory using longitudinal designs.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ McCormick, E. M. (&lt;em&gt;preprint&lt;/em&gt;). Multi-Level Multi-Growth Model
     
     <item>
       <title>Longitudinal Network Re-organization Across Learning and Development</title>
-      <link>https://mccormickneuro.github.io/publication/2021-longitudinal-reorganization/</link>
+      <link>/publication/2021-longitudinal-reorganization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2021-longitudinal-reorganization/</guid>
+      <guid>/publication/2021-longitudinal-reorganization/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Peters, S., Crone, E. A., &amp;amp; Telzer, E. H. (2021). Longitudinal Network Re-organization Across Learning and Development. &lt;em&gt;NeuroImage, 229&lt;/em&gt;, 117784.&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@ McCormick, E. M., Peters, S., Crone, E. A., &amp;amp; Telzer, E. H. (2021). Long
     
     <item>
       <title>Alterations in adolescent dopaminergic systems as a function of early mother-toddler attachment: a prospective longitudinal examination</title>
-      <link>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</link>
+      <link>/publication/2019-dopamine-attachment/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</guid>
+      <guid>/publication/2019-dopamine-attachment/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., McElwain, N. A., &amp;amp; Telzer, E. H. (2019). Alterations in adolescent dopaminergic systems as a function of early mother-toddler attachment: a prospective longitudinal examination. &lt;em&gt;International Journal of Developmental Neuroscience, 78&lt;/em&gt;, 122-129
 .&lt;/p&gt;
@@ -45,9 +45,9 @@ McCormick, E. M., McElwain, N. A., &amp;amp; Telzer, E. H. (2019). Alterations i
     
     <item>
       <title>Model-based network discovery of developmental and performance-related differences during risky decision-making</title>
-      <link>https://mccormickneuro.github.io/publication/2019-model-based-networks/</link>
+      <link>/publication/2019-model-based-networks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2019-model-based-networks/</guid>
+      <guid>/publication/2019-model-based-networks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based network discovery of developmental and performance-related differences during risky decision-making. &lt;em&gt;NeuroImage, 188&lt;/em&gt;, 456-464
 .&lt;/p&gt;
@@ -56,9 +56,9 @@ McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based netw
     
     <item>
       <title>Contributions of default mode network stability and deactivation to adolescent task engagement</title>
-      <link>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</link>
+      <link>/publication/2018-default-mode-stability/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</guid>
+      <guid>/publication/2018-default-mode-stability/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode network stability and deactivation to adolescent task engagement. &lt;em&gt;Scientific Reports, 8&lt;/em&gt;, 18049.&lt;/p&gt;
 </description>
@@ -66,9 +66,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode 
     
     <item>
       <title>Functional connectivity in the social brain across childhood and adolescence</title>
-      <link>https://mccormickneuro.github.io/publication/2018-social-brain-network/</link>
+      <link>/publication/2018-social-brain-network/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2018-social-brain-network/</guid>
+      <guid>/publication/2018-social-brain-network/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., van Hoorn, J., Cohen, J. R., &amp;amp; Telzer, E. H. (2018). Functional connectivity in the social brain across childhood and adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;(8), 819–830.&lt;/p&gt;
 </description>
@@ -76,9 +76,9 @@ McCormick, E. M., van Hoorn, J., Cohen, J. R., &amp;amp; Telzer, E. H. (2018). F
     
     <item>
       <title>Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking</title>
-      <link>https://mccormickneuro.github.io/publication/2018-not-social-sensitivity/</link>
+      <link>/publication/2018-not-social-sensitivity/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2018-not-social-sensitivity/</guid>
+      <guid>/publication/2018-not-social-sensitivity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Perino, M. T., &amp;amp; Telzer, E. H. (2018). Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking. &lt;em&gt;Developmental Cognitive Neuroscience, 30&lt;/em&gt;, 134–141.&lt;/p&gt;
 </description>
@@ -86,9 +86,9 @@ McCormick, E. M., Perino, M. T., &amp;amp; Telzer, E. H. (2018). Not just social
     
     <item>
       <title>Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence</title>
-      <link>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</link>
+      <link>/publication/2018-doomed-to-repeat/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</guid>
+      <guid>/publication/2018-doomed-to-repeat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence. &lt;em&gt;Journal of Cognitive Neuroscience, 30&lt;/em&gt;(3), 281–289.&lt;/p&gt;
 </description>
@@ -96,9 +96,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Not doomed to repeat: Enhanced
     
     <item>
       <title>Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents</title>
-      <link>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</link>
+      <link>/publication/2017-failure-to-retreat/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</guid>
+      <guid>/publication/2017-failure-to-retreat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents. &lt;em&gt;NeuroImage, 147&lt;/em&gt;, 381-389.&lt;/p&gt;
 </description>
@@ -106,9 +106,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted se
     
     <item>
       <title>Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context</title>
-      <link>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</link>
+      <link>/publication/2017-adaptive-flexibility/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</guid>
+      <guid>/publication/2017-adaptive-flexibility/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
 </description>
@@ -116,9 +116,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Adaptive adolescent flexibilit
     
     <item>
       <title>Activation in context: Differential conclusions drawn from cross-sectional and longitudinal analyses of adolescents’ cognitive control-related neural activity</title>
-      <link>https://mccormickneuro.github.io/publication/2017-activation-in-context/</link>
+      <link>/publication/2017-activation-in-context/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2017-activation-in-context/</guid>
+      <guid>/publication/2017-activation-in-context/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. (2017). Activation in context: Differential conclusions drawn from cross-sectional and longitudinal analyses of adolescents’ cognitive control-related neural activity. &lt;em&gt;Frontiers in Human Neuroscience, 11&lt;/em&gt;, 141.&lt;/p&gt;
 </description>
@@ -126,9 +126,9 @@ McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. (2017). Activation in context:
     
     <item>
       <title>Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts</title>
-      <link>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</link>
+      <link>/publication/2016-cognitive-control-family/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</guid>
+      <guid>/publication/2016-cognitive-control-family/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. (2016). Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts. &lt;em&gt;NeuroImage, 124&lt;/em&gt;, 989-996.&lt;/p&gt;
 </description>
