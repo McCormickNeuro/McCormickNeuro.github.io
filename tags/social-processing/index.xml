@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social processing | Ethan McCormick</title>
-    <link>/tags/social-processing/</link>
-      <atom:link href="/tags/social-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/social-processing/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/social-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>social processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>social processing</title>
-      <link>/tags/social-processing/</link>
+      <link>https://mccormickneuro.github.io/tags/social-processing/</link>
     </image>
     
     <item>
       <title>Apples to apples? Neural correlates of emotion regulation differences between high and low risk adolescents</title>
-      <link>/publication/2019-emotreg-highlow-risk/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-emotreg-highlow-risk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-emotreg-highlow-risk/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-emotreg-highlow-risk/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Perino, M. T., Guassi Moreira, J. F., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). The neural development of prosocial behavior from childhood to adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 14&lt;/em&gt;(2), 129-139.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ Perino, M. T., Guassi Moreira, J. F., McCormick, E. M., &amp;amp; Telzer, E. H. 
     
     <item>
       <title>Differential effects of parent and peer presence on neural correlates of risk taking in adolescence</title>
-      <link>/publication/2018-differential-peer-parents/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-differential-peer-parents/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-differential-peer-parents/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-differential-peer-parents/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 van Hoorn, J., McCormick, E. M., Rogers, C. R., Ivory, S., &amp;amp; Telzer, E. H. (2018). Differential effects of parent and peer presence on neural correlates of risk taking in adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;(9), 945–955.&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@ van Hoorn, J., McCormick, E. M., Rogers, C. R., Ivory, S., &amp;amp; Telzer, E. 
     
     <item>
       <title>Moderate social sensitivity in a risky context supports adaptive decision-making in adolescence: Evidence from brain and behavior</title>
-      <link>/publication/2018-moderate-social-sensitivity/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-moderate-social-sensitivity/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-moderate-social-sensitivity/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-moderate-social-sensitivity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 van Hoorn, J., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Moderate social sensitivity in a risky context supports adaptive decision-making in adolescence: Evidence from brain and behavior. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;(5), 546–556.&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@ van Hoorn, J., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Moderate social
     
     <item>
       <title>Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking</title>
-      <link>/publication/2018-not-social-sensitivity/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-not-social-sensitivity/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-not-social-sensitivity/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-not-social-sensitivity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Perino, M. T., &amp;amp; Telzer, E. H. (2018). Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking. &lt;em&gt;Developmental Cognitive Neuroscience, 30&lt;/em&gt;, 134–141.&lt;/p&gt;
 </description>

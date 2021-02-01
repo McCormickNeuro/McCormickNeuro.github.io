@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>learning | Ethan McCormick</title>
-    <link>/tags/learning/</link>
-      <atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/learning/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <description>learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>learning</title>
-      <link>/tags/learning/</link>
+      <link>https://mccormickneuro.github.io/tags/learning/</link>
     </image>
     
     <item>
       <title>Longitudinal Network Re-organization Across Learning and Development</title>
-      <link>/publication/2021-longitudinal-reorganization/</link>
+      <link>https://mccormickneuro.github.io/publication/2021-longitudinal-reorganization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-longitudinal-reorganization/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2021-longitudinal-reorganization/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Peters, S., Crone, E. A., &amp;amp; Telzer, E. H. (2021). Longitudinal Network Re-organization Across Learning and Development. &lt;em&gt;NeuroImage, 229&lt;/em&gt;, 117784.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ McCormick, E. M., Peters, S., Crone, E. A., &amp;amp; Telzer, E. H. (2021). Long
     
     <item>
       <title>Contributions of default mode network stability and deactivation to adolescent task engagement</title>
-      <link>/publication/2018-default-mode-stability/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-default-mode-stability/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode network stability and deactivation to adolescent task engagement. &lt;em&gt;Scientific Reports, 8&lt;/em&gt;, 18049.&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode 
     
     <item>
       <title>Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents</title>
-      <link>/publication/2017-failure-to-retreat/</link>
+      <link>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-failure-to-retreat/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents. &lt;em&gt;NeuroImage, 147&lt;/em&gt;, 381-389.&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted se
     
     <item>
       <title>Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context</title>
-      <link>/publication/2017-adaptive-flexibility/</link>
+      <link>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-adaptive-flexibility/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
 </description>

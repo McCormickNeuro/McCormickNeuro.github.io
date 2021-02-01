@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>parenting | Ethan McCormick</title>
-    <link>/tags/parenting/</link>
-      <atom:link href="/tags/parenting/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/parenting/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/parenting/index.xml" rel="self" type="application/rss+xml" />
     <description>parenting</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>parenting</title>
-      <link>/tags/parenting/</link>
+      <link>https://mccormickneuro.github.io/tags/parenting/</link>
     </image>
     
     <item>
       <title>Maternal emotion socialization in early childhood predicts adolescents’ amygdala-vmPFC functional connectivity to emotion faces</title>
-      <link>/publication/2020-maternal-emotion-socialization/</link>
+      <link>https://mccormickneuro.github.io/publication/2020-maternal-emotion-socialization/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-maternal-emotion-socialization/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2020-maternal-emotion-socialization/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Chen, X., McCormick, E. M., Ravindran, N., McElwain, N. L., &amp;amp; Telzer, E. H. (2020). Maternal emotion socialization in early childhood predicts adolescents’ amygdala-vmPFC functional connectivity to emotion faces. &lt;em&gt;Developmental Psychology, 56&lt;/em&gt;(3), 503-515.&lt;/p&gt;
 </description>

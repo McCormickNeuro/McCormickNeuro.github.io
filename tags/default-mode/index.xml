@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>default mode | Ethan McCormick</title>
-    <link>/tags/default-mode/</link>
-      <atom:link href="/tags/default-mode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/default-mode/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/default-mode/index.xml" rel="self" type="application/rss+xml" />
     <description>default mode</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>default mode</title>
-      <link>/tags/default-mode/</link>
+      <link>https://mccormickneuro.github.io/tags/default-mode/</link>
     </image>
     
     <item>
       <title>Contributions of default mode network stability and deactivation to adolescent task engagement</title>
-      <link>/publication/2018-default-mode-stability/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-default-mode-stability/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode network stability and deactivation to adolescent task engagement. &lt;em&gt;Scientific Reports, 8&lt;/em&gt;, 18049.&lt;/p&gt;
 </description>

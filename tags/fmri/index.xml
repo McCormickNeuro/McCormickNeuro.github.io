@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fMRI | Ethan McCormick</title>
-    <link>/tags/fmri/</link>
-      <atom:link href="/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/fmri/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
     <description>fMRI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>fMRI</title>
-      <link>/tags/fmri/</link>
+      <link>https://mccormickneuro.github.io/tags/fmri/</link>
     </image>
     
     <item>
       <title>Longitudinal Network Re-organization Across Learning and Development</title>
-      <link>/publication/2021-longitudinal-reorganization/</link>
+      <link>https://mccormickneuro.github.io/publication/2021-longitudinal-reorganization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-longitudinal-reorganization/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2021-longitudinal-reorganization/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Peters, S., Crone, E. A., &amp;amp; Telzer, E. H. (2021). Longitudinal Network Re-organization Across Learning and Development. &lt;em&gt;NeuroImage, 229&lt;/em&gt;, 117784.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ McCormick, E. M., Peters, S., Crone, E. A., &amp;amp; Telzer, E. H. (2021). Long
     
     <item>
       <title>Neural Correlates of Conﬂicting Social Inﬂuence on Adolescent Risk Taking</title>
-      <link>/publication/2020-conflicting-risktaking/</link>
+      <link>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-conflicting-risktaking/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Kwon, S-J., Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural correlates of conflicting social influence on adolescent risk-taking. &lt;em&gt;Journal of Research on Adolescence&lt;/em&gt;, 1-14.&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@ Kwon, S-J., Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural 
     
     <item>
       <title>Neural sensitivity to conflicting attitudes supports greater conformity toward positive over negative influence in early adolescence</title>
-      <link>/publication/2020-sensitivity-conflicting/</link>
+      <link>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-sensitivity-conflicting/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural sensitivity to conflicting attitudes supports greater conformity toward positive over negative influence in early adolescence. &lt;em&gt;Developmental Cognitive Neuroscience, 45&lt;/em&gt;, 100837.&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@ Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural sensitivity 
     
     <item>
       <title>Maternal emotion socialization in early childhood predicts adolescents’ amygdala-vmPFC functional connectivity to emotion faces</title>
-      <link>/publication/2020-maternal-emotion-socialization/</link>
+      <link>https://mccormickneuro.github.io/publication/2020-maternal-emotion-socialization/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-maternal-emotion-socialization/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2020-maternal-emotion-socialization/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Chen, X., McCormick, E. M., Ravindran, N., McElwain, N. L., &amp;amp; Telzer, E. H. (2020). Maternal emotion socialization in early childhood predicts adolescents’ amygdala-vmPFC functional connectivity to emotion faces. &lt;em&gt;Developmental Psychology, 56&lt;/em&gt;(3), 503-515.&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@ Chen, X., McCormick, E. M., Ravindran, N., McElwain, N. L., &amp;amp; Telzer, E.
     
     <item>
       <title>Apples to apples? Neural correlates of emotion regulation differences between high and low risk adolescents</title>
-      <link>/publication/2019-emotreg-highlow-risk/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-emotreg-highlow-risk/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-emotreg-highlow-risk/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-emotreg-highlow-risk/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Perino, M. T., Guassi Moreira, J. F., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). The neural development of prosocial behavior from childhood to adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 14&lt;/em&gt;(2), 129-139.&lt;/p&gt;
 </description>
@@ -64,9 +64,9 @@ Perino, M. T., Guassi Moreira, J. F., McCormick, E. M., &amp;amp; Telzer, E. H. 
     
     <item>
       <title>Behavioral and neural dysregulation to social rewards and links to internalizing symptoms in adolescents</title>
-      <link>/publication/2019-dysregulation-socialrewards-internalizing/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-dysregulation-socialrewards-internalizing/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-dysregulation-socialrewards-internalizing/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-dysregulation-socialrewards-internalizing/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Kwon, S-J., Ivory, S. L., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). Behavioral and neural dysregulation to social rewards and links to internalizing symptoms in adolescents. &lt;em&gt;Frontiers in Behavioral Neuroscience, 13&lt;/em&gt;, 158.&lt;/p&gt;
 </description>
@@ -74,9 +74,9 @@ Kwon, S-J., Ivory, S. L., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). Beha
     
     <item>
       <title>Alterations in adolescent dopaminergic systems as a function of early mother-toddler attachment: a prospective longitudinal examination</title>
-      <link>/publication/2019-dopamine-attachment/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-dopamine-attachment/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-dopamine-attachment/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., McElwain, N. A., &amp;amp; Telzer, E. H. (2019). Alterations in adolescent dopaminergic systems as a function of early mother-toddler attachment: a prospective longitudinal examination. &lt;em&gt;International Journal of Developmental Neuroscience, 78&lt;/em&gt;, 122-129
 .&lt;/p&gt;
@@ -85,9 +85,9 @@ McCormick, E. M., McElwain, N. A., &amp;amp; Telzer, E. H. (2019). Alterations i
     
     <item>
       <title>The neural development of prosocial behavior from childhood to adolescence</title>
-      <link>/publication/2019-prosocial-development/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-prosocial-development/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-prosocial-development/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-prosocial-development/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). The neural development of prosocial behavior from childhood to adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 14&lt;/em&gt;(2), 129-139.&lt;/p&gt;
 </description>
@@ -95,9 +95,9 @@ Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). The neural developm
     
     <item>
       <title>Model-based network discovery of developmental and performance-related differences during risky decision-making</title>
-      <link>/publication/2019-model-based-networks/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-model-based-networks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-model-based-networks/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-model-based-networks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based network discovery of developmental and performance-related differences during risky decision-making. &lt;em&gt;NeuroImage, 188&lt;/em&gt;, 456-464
 .&lt;/p&gt;
@@ -106,9 +106,9 @@ McCormick, E. M., Gates, K. M., &amp;amp; Telzer, E. H. (2018). Model-based netw
     
     <item>
       <title>Contributions of default mode network stability and deactivation to adolescent task engagement</title>
-      <link>/publication/2018-default-mode-stability/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-default-mode-stability/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-default-mode-stability/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode network stability and deactivation to adolescent task engagement. &lt;em&gt;Scientific Reports, 8&lt;/em&gt;, 18049.&lt;/p&gt;
 </description>
@@ -116,9 +116,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Contributions of default mode 
     
     <item>
       <title>Differential effects of parent and peer presence on neural correlates of risk taking in adolescence</title>
-      <link>/publication/2018-differential-peer-parents/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-differential-peer-parents/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-differential-peer-parents/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-differential-peer-parents/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 van Hoorn, J., McCormick, E. M., Rogers, C. R., Ivory, S., &amp;amp; Telzer, E. H. (2018). Differential effects of parent and peer presence on neural correlates of risk taking in adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;(9), 945–955.&lt;/p&gt;
 </description>
@@ -126,9 +126,9 @@ van Hoorn, J., McCormick, E. M., Rogers, C. R., Ivory, S., &amp;amp; Telzer, E. 
     
     <item>
       <title>Functional connectivity in the social brain across childhood and adolescence</title>
-      <link>/publication/2018-social-brain-network/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-social-brain-network/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-social-brain-network/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-social-brain-network/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., van Hoorn, J., Cohen, J. R., &amp;amp; Telzer, E. H. (2018). Functional connectivity in the social brain across childhood and adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;(8), 819–830.&lt;/p&gt;
 </description>
@@ -136,9 +136,9 @@ McCormick, E. M., van Hoorn, J., Cohen, J. R., &amp;amp; Telzer, E. H. (2018). F
     
     <item>
       <title>Neural correlates of sibling closeness and association with externalizing behavior in adolescence</title>
-      <link>/publication/2018-sibling-closeness/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-sibling-closeness/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-sibling-closeness/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-sibling-closeness/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Rogers, C. R., McCormick, E. M., van Hoorn, J., Ivory, S., &amp;amp; Telzer, E. H. (2018). Neural correlates of sibling closeness and association with externalizing behavior in adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;, 977–988.&lt;/p&gt;
 </description>
@@ -146,9 +146,9 @@ Rogers, C. R., McCormick, E. M., van Hoorn, J., Ivory, S., &amp;amp; Telzer, E. 
     
     <item>
       <title>Subjective social status and neural processing of race in Mexican-American adolescents</title>
-      <link>/publication/2018-subjective-social-status/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-subjective-social-status/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-subjective-social-status/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-subjective-social-status/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Muscatell, K. A., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Subjective social status and neural processing of race in Mexican-American adolescents. &lt;em&gt;Development and Psychopathology, 5&lt;/em&gt;, 1–12.&lt;/p&gt;
 </description>
@@ -156,9 +156,9 @@ Muscatell, K. A., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Subjective s
     
     <item>
       <title>Moderate social sensitivity in a risky context supports adaptive decision-making in adolescence: Evidence from brain and behavior</title>
-      <link>/publication/2018-moderate-social-sensitivity/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-moderate-social-sensitivity/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-moderate-social-sensitivity/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-moderate-social-sensitivity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 van Hoorn, J., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Moderate social sensitivity in a risky context supports adaptive decision-making in adolescence: Evidence from brain and behavior. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;(5), 546–556.&lt;/p&gt;
 </description>
@@ -166,9 +166,9 @@ van Hoorn, J., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Moderate social
     
     <item>
       <title>Methodological considerations for longitudinal fMRI research</title>
-      <link>/publication/2018-methodological-considerations/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-methodological-considerations/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-methodological-considerations/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-methodological-considerations/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Telzer, E. H., McCormick, E. M., Peters, S., Cosme, D., Pfeifer, P. H., &amp;amp; van Duijvenvoorde, A. C. K. (2018). Methodological considerations for longitudinal fMRI research. &lt;em&gt;Developmental Cognitive Neuroscience, 33&lt;/em&gt;, 149–160.&lt;/p&gt;
 </description>
@@ -176,9 +176,9 @@ Telzer, E. H., McCormick, E. M., Peters, S., Cosme, D., Pfeifer, P. H., &amp;amp
     
     <item>
       <title>Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking</title>
-      <link>/publication/2018-not-social-sensitivity/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-not-social-sensitivity/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-not-social-sensitivity/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-not-social-sensitivity/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Perino, M. T., &amp;amp; Telzer, E. H. (2018). Not just social sensitivity: Adolescent neural suppression of social feedback during risk taking. &lt;em&gt;Developmental Cognitive Neuroscience, 30&lt;/em&gt;, 134–141.&lt;/p&gt;
 </description>
@@ -186,9 +186,9 @@ McCormick, E. M., Perino, M. T., &amp;amp; Telzer, E. H. (2018). Not just social
     
     <item>
       <title>Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence</title>
-      <link>/publication/2018-doomed-to-repeat/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-doomed-to-repeat/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-doomed-to-repeat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Not doomed to repeat: Enhanced mPFC tracking of errors promotes adaptive behavior during adolescence. &lt;em&gt;Journal of Cognitive Neuroscience, 30&lt;/em&gt;(3), 281–289.&lt;/p&gt;
 </description>
@@ -196,9 +196,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Not doomed to repeat: Enhanced
     
     <item>
       <title>Youth&#39;s conceptions of adolescence predict longitudinal changes in prefrontal cortex activation and risk taking</title>
-      <link>/publication/2018-adolescent-conceptions/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-adolescent-conceptions/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-adolescent-conceptions/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-adolescent-conceptions/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Qu, Y., Pomerantz, E. M., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Youth&amp;rsquo;s conceptions of adolescence predict longitudinal changes in prefrontal cortex activation and risk taking. &lt;em&gt;Child Development, 89&lt;/em&gt;, 773-783.&lt;/p&gt;
 </description>
@@ -206,9 +206,9 @@ Qu, Y., Pomerantz, E. M., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Yout
     
     <item>
       <title>Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents</title>
-      <link>/publication/2017-failure-to-retreat/</link>
+      <link>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-failure-to-retreat/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2017-failure-to-retreat/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted sensitivity to negative feedback supports risky behavior in adolescents. &lt;em&gt;NeuroImage, 147&lt;/em&gt;, 381-389.&lt;/p&gt;
 </description>
@@ -216,9 +216,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Failure to retreat: Blunted se
     
     <item>
       <title>Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context</title>
-      <link>/publication/2017-adaptive-flexibility/</link>
+      <link>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-adaptive-flexibility/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2017-adaptive-flexibility/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Adaptive adolescent flexibility: Neurodevelopment of decision-making and learning in a risky context. &lt;em&gt;Journal of Cognitive Neuroscience, 29&lt;/em&gt;(3), 413-423.&lt;/p&gt;
 </description>
@@ -226,9 +226,9 @@ McCormick, E. M., &amp;amp; Telzer, E. H. (2017). Adaptive adolescent flexibilit
     
     <item>
       <title>Activation in context: Differential conclusions drawn from cross-sectional and longitudinal analyses of adolescents’ cognitive control-related neural activity</title>
-      <link>/publication/2017-activation-in-context/</link>
+      <link>https://mccormickneuro.github.io/publication/2017-activation-in-context/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-activation-in-context/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2017-activation-in-context/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. (2017). Activation in context: Differential conclusions drawn from cross-sectional and longitudinal analyses of adolescents’ cognitive control-related neural activity. &lt;em&gt;Frontiers in Human Neuroscience, 11&lt;/em&gt;, 141.&lt;/p&gt;
 </description>
@@ -236,9 +236,9 @@ McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. (2017). Activation in context:
     
     <item>
       <title>Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts</title>
-      <link>/publication/2016-cognitive-control-family/</link>
+      <link>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-cognitive-control-family/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2016-cognitive-control-family/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., Qu, Y., &amp;amp; Telzer, E. H. (2016). Adolescent neurodevelopment of cognitive control and risk-taking in negative family contexts. &lt;em&gt;NeuroImage, 124&lt;/em&gt;, 989-996.&lt;/p&gt;
 </description>

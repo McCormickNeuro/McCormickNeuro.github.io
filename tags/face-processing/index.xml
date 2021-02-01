@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>face processing | Ethan McCormick</title>
-    <link>/tags/face-processing/</link>
-      <atom:link href="/tags/face-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/face-processing/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/face-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>face processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>face processing</title>
-      <link>/tags/face-processing/</link>
+      <link>https://mccormickneuro.github.io/tags/face-processing/</link>
     </image>
     
     <item>
       <title>Subjective social status and neural processing of race in Mexican-American adolescents</title>
-      <link>/publication/2018-subjective-social-status/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-subjective-social-status/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-subjective-social-status/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-subjective-social-status/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Muscatell, K. A., McCormick, E. M., &amp;amp; Telzer, E. H. (2018). Subjective social status and neural processing of race in Mexican-American adolescents. &lt;em&gt;Development and Psychopathology, 5&lt;/em&gt;, 1–12.&lt;/p&gt;
 </description>

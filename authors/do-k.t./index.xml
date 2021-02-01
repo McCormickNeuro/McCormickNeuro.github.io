@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Do, K.T. | Ethan McCormick</title>
-    <link>/authors/do-k.t./</link>
-      <atom:link href="/authors/do-k.t./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/authors/do-k.t./</link>
+      <atom:link href="https://mccormickneuro.github.io/authors/do-k.t./index.xml" rel="self" type="application/rss+xml" />
     <description>Do, K.T.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Do, K.T.</title>
-      <link>/authors/do-k.t./</link>
+      <link>https://mccormickneuro.github.io/authors/do-k.t./</link>
     </image>
     
     <item>
       <title>Neural sensitivity to conflicting attitudes supports greater conformity toward positive over negative influence in early adolescence</title>
-      <link>/publication/2020-sensitivity-conflicting/</link>
+      <link>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-sensitivity-conflicting/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2020-sensitivity-conflicting/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural sensitivity to conflicting attitudes supports greater conformity toward positive over negative influence in early adolescence. &lt;em&gt;Developmental Cognitive Neuroscience, 45&lt;/em&gt;, 100837.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural sensitivity 
     
     <item>
       <title>The neural development of prosocial behavior from childhood to adolescence</title>
-      <link>/publication/2019-prosocial-development/</link>
+      <link>https://mccormickneuro.github.io/publication/2019-prosocial-development/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-prosocial-development/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2019-prosocial-development/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2019). The neural development of prosocial behavior from childhood to adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 14&lt;/em&gt;(2), 129-139.&lt;/p&gt;
 </description>

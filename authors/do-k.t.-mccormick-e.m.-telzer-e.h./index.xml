@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Do, K.T., **McCormick, E.M.**, &amp; Telzer, E.H. | Ethan McCormick</title>
-    <link>/authors/do-k.t.-mccormick-e.m.-telzer-e.h./</link>
-      <atom:link href="/authors/do-k.t.-mccormick-e.m.-telzer-e.h./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/authors/do-k.t.-mccormick-e.m.-telzer-e.h./</link>
+      <atom:link href="https://mccormickneuro.github.io/authors/do-k.t.-mccormick-e.m.-telzer-e.h./index.xml" rel="self" type="application/rss+xml" />
     <description>Do, K.T., **McCormick, E.M.**, &amp; Telzer, E.H.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Do, K.T., **McCormick, E.M.**, &amp; Telzer, E.H.</title>
-      <link>/authors/do-k.t.-mccormick-e.m.-telzer-e.h./</link>
+      <link>https://mccormickneuro.github.io/authors/do-k.t.-mccormick-e.m.-telzer-e.h./</link>
     </image>
     
     <item>
       <title>Neural Correlates of Conﬂicting Social Inﬂuence on Adolescent Risk Taking</title>
-      <link>/publication/2020-conflicting-risktaking/</link>
+      <link>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-conflicting-risktaking/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2020-conflicting-risktaking/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 Kwon, S-J., Do, K. T., McCormick, E. M., &amp;amp; Telzer, E. H. (2020). Neural correlates of conflicting social influence on adolescent risk-taking. &lt;em&gt;Journal of Research on Adolescence&lt;/em&gt;, 1-14.&lt;/p&gt;
 </description>

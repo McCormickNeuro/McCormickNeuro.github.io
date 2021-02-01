@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social brain | Ethan McCormick</title>
-    <link>/tags/social-brain/</link>
-      <atom:link href="/tags/social-brain/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mccormickneuro.github.io/tags/social-brain/</link>
+      <atom:link href="https://mccormickneuro.github.io/tags/social-brain/index.xml" rel="self" type="application/rss+xml" />
     <description>social brain</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>social brain</title>
-      <link>/tags/social-brain/</link>
+      <link>https://mccormickneuro.github.io/tags/social-brain/</link>
     </image>
     
     <item>
       <title>Functional connectivity in the social brain across childhood and adolescence</title>
-      <link>/publication/2018-social-brain-network/</link>
+      <link>https://mccormickneuro.github.io/publication/2018-social-brain-network/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-social-brain-network/</guid>
+      <guid>https://mccormickneuro.github.io/publication/2018-social-brain-network/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt;
 McCormick, E. M., van Hoorn, J., Cohen, J. R., &amp;amp; Telzer, E. H. (2018). Functional connectivity in the social brain across childhood and adolescence. &lt;em&gt;Social Cognitive and Affective Neuroscience, 13&lt;/em&gt;(8), 819–830.&lt;/p&gt;
 </description>
