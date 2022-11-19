@@ -1,0 +1,31 @@
+---
+redirect_to: "https://e-m-mccormick.github.io/"
+title: "Ethan M. McCormick"
+image: "static/images/avatar.jpg"
+preview: "static/images/avatar.jpg"
+links:
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:ethan.mccormick@radboudumc.nl"
+  - label: '<i class="fas fa-graduation-cap"></i> Google Scholar'
+    url: "https://scholar.google.com/citations?user=hiua2E8AAAAJ&hl=en"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/McCormickNeuro"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/McCormickNeuro"
+  - label: '<i class="ai ai-orcid"></i> ORCID'
+    url: "https://orcid.org/0000-0002-7919-4340"
+  - label: '<i class="ai ai-osf"></i> OSF'
+    url: "https://osf.io/bfcgy/"
+  - label: '<i class="ai ai-cv"></i>'
+    url: "static/McCormick_CV.pdf"
+output: 
+  #postcards::jolla
+  postcards::trestles
+css: [styles.css]
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
